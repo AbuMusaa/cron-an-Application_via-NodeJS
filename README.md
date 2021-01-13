@@ -1,7 +1,7 @@
 # cron-an-Application_via-NodeJS
 
 ## This is a web application served via expressJS. 
-'ejs' is used in this prject as template engine.
+'ejs' is used in this project as template engine.
 
 ### application Run command
 `npm start`
